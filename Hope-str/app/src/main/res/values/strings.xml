@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hope-str</string>
+    <string name="divider_title">Commonly Searched</string>
+    <string name="action_log_in">Log In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="action_settings">Settings</string>
+</resources>
